@@ -2,5 +2,15 @@
     "workbench.startupEditor": "readme",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "cSpell.words": [
+        "categoricas",
+        "countplot",
+        "Distribucion",
+        "figsize",
+        "numericas",
+        "suptitle",
+        "xlabel",
+        "ylabel"
+    ]
 }
