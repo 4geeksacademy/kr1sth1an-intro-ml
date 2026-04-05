@@ -8,7 +8,9 @@
         "countplot",
         "Distribucion",
         "figsize",
+        "lineplot",
         "numericas",
+        "segun",
         "suptitle",
         "xlabel",
         "ylabel"
