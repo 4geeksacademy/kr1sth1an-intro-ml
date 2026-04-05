@@ -5,6 +5,8 @@
     },
     "cSpell.words": [
         "categoricas",
+        "Comparacion",
+        "Configuracion",
         "countplot",
         "Distribucion",
         "figsize",
@@ -13,6 +15,8 @@
         "segun",
         "suptitle",
         "xlabel",
-        "ylabel"
+        "xticks",
+        "ylabel",
+        "ylim"
     ]
 }
