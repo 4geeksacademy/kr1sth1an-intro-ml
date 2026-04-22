@@ -4,7 +4,9 @@
         "*.md": "vscode.markdown.preview.editor"
     },
     "cSpell.words": [
+        "adfuller",
         "annot",
+        "arima",
         "bayes",
         "bernoulli",
         "categoricas",
@@ -13,6 +15,7 @@
         "Comparacion",
         "Configuracion",
         "countplot",
+        "criticos",
         "Desviacion",
         "Distribucion",
         "estandar",
@@ -30,7 +33,9 @@
         "prediccion",
         "scatterplot",
         "segun",
+        "stattools",
         "suptitle",
+        "tamano",
         "toarray",
         "unicas",
         "unicos",
